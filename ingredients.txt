@@ -6,3 +6,4 @@ Cilantro
 Sour cream
 Jalapenos
 Onions
+test_remote pull
