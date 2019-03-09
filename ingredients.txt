@@ -6,3 +6,5 @@ Cilantro
 Sour cream
 Jalapenos
 Onions
+salt
+pepper
